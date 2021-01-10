@@ -1,4 +1,14 @@
-- role: Open Source Fellow
-  company: MLH Fellowship
-  dates: Summer 2020
-  logo: fellowship.svg
+- role: European Coach
+  company: Major League Hacking
+  dates: February 2018 – Present
+  logo: mlh.svg
+
+- role: Graduate Consultant – AWS Professional Services
+  company: Amazon Web Services
+  dates: September 2020 – Present
+  logo: aws.png
+
+- role: Junior PHP Developer
+  company: Komodo Digital
+  dates: September 2018 – August 2019
+  logo: komodo.png
