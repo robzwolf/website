@@ -1,12 +1,17 @@
-- role: European Coach
-  company: Major League Hacking
-  dates: February 2018 – Present
-  logo: mlh.svg
-
 - role: Graduate Consultant – AWS Professional Services
   company: Amazon Web Services
   dates: September 2020 – Present
   logo: aws.png
+
+- role: Director & Co-Founder
+  company: Hackathons UK Consulting
+  dates: April 2020 – Present
+  logo: hukc.svg
+
+- role: European Coach
+  company: Major League Hacking
+  dates: February 2019 – Present
+  logo: mlh.svg
 
 - role: Junior PHP Developer
   company: Komodo Digital
