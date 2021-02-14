@@ -2,16 +2,16 @@
   institute: Durham University
   dates: October 2016 – September 2020
   logo: du.png
-  
-- course: AWS Solutions Architect – Associate
-  institute: Amazon Web Services
-  dates: November 2020
-  logo: aws-sa.png
 
 - course: AWS Cloud Practitioner – Associate
   institute: Amazon Web Services
   dates: October 2020
   logo: aws-cp.png
+
+- course: AWS Solutions Architect – Associate
+  institute: Amazon Web Services
+  dates: November 2020
+  logo: aws-sa.png
 
 - course: AWS Developer – Associate
   institute: Amazon Web Services
