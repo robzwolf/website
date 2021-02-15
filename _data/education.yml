@@ -2,7 +2,7 @@
   institute: Durham University
   dates: October 2016 – September 2020
   logo: du.svg
-  class: du
+  class: du line-after
 
 - course: AWS Cloud Practitioner – Associate
   institute: Amazon Web Services
