@@ -75,4 +75,14 @@
 
         @include darkText($crush: false);
     }
+
+    &.huk {
+        background: #e91e63;
+        @include lightText;
+    }
+
+    &.dh {
+        background: #434144;
+        @include lightText($blow-out: false);
+    }
 }

@@ -2,13 +2,16 @@
   company: Hackathons UK
   dates: March 2020 – Present
   logo: huk.svg
+  class: huk
 
 - role: Lead Organiser
   company: DurHack
   dates: March 2017 – December 2019
-  logo: dh.png
+  logo: dh.svg
+  class: dh
 
 - role: President
   company: Durham University Computing Society
   dates: March 2017 – December 2019
   logo: compsoc.png
+  class: compsoc
