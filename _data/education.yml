@@ -4,11 +4,11 @@
   logo: du.svg
   class: du
 
-- course: AWS Cloud Practitioner – Associate
+- course: AWS Developer – Associate
   institute: Amazon Web Services
-  dates: October 2020
-  logo: aws-cp.png
-  class: aws-cp
+  dates: January 2020
+  logo: aws-dev.png
+  class: aws-dev
 
 - course: AWS Solutions Architect – Associate
   institute: Amazon Web Services
@@ -16,11 +16,11 @@
   logo: aws-sa.png
   class: aws-sa
 
-- course: AWS Developer – Associate
+- course: AWS Cloud Practitioner – Associate
   institute: Amazon Web Services
-  dates: January 2020
-  logo: aws-dev.png
-  class: aws-dev
+  dates: October 2020
+  logo: aws-cp.png
+  class: aws-cp
 
 - course: Terraform Associate
   institute: HashiCorp
