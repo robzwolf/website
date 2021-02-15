@@ -85,4 +85,9 @@
         background: #434144;
         @include lightText($blow-out: false);
     }
+
+    &.compsoc {
+        background: #95c5cd;
+        @include darkText($crush: false);
+    }
 }
