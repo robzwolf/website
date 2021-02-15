@@ -22,6 +22,17 @@
         }
     }
 
+    @mixin lineAfter {
+        &::after {
+            content: '';
+            display: block;
+            border-right: 2px solid #f9b66057;
+            height: 70%;
+            right: -31px;
+            position: absolute;
+        }
+    }
+
     /**
     Work Experience
      */
@@ -53,6 +64,7 @@
     &.du {
         background: #611c66;
         @include lightText;
+        @include lineAfter;
     }
 
     &.aws-cp {
