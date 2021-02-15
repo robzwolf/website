@@ -1,0 +1,17 @@
+[build]
+    command = "bundle exec jekyll build"
+
+[dev]
+    command = "bundle exec jekyll serve"
+
+[[redirects]]
+    from = "/r/tv"
+    to = "/tv"
+
+[[redirects]]
+    from = "/r/mouse"
+    to = "/mouse"
+
+[[redirects]]
+    from = "/pay/*"
+    to = "https://robbie.cash/:splat"
