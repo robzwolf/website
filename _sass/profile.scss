@@ -1,13 +1,15 @@
 .profile {
-    background-color: #1d539f !important;
+    background-color: #f9b660;
     text-align: center;
     min-height: 320px;
     padding: 30px;
     margin-bottom: 50px;
+    border-bottom: 6px solid #3b474f;
+
     h1 {
         font-size: 50px;
         font-weight: 700;
-        color: white;
+        color: #2a3339;
     }
     
     img {
@@ -28,6 +30,6 @@
     a,
     a:hover,
     a:visited {
-        color: #D2E3FF;
+        color: rgba(59, 71, 79, 0.92);
     }
 }
