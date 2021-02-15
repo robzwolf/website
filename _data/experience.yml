@@ -2,18 +2,22 @@
   company: Amazon Web Services
   dates: September 2020 – Present
   logo: aws.png
+  class: aws
 
 - role: Director & Co-Founder
   company: Hackathons UK Consulting
   dates: April 2020 – Present
   logo: hukc.svg
+  class: hukc
 
 - role: European Coach
   company: Major League Hacking
   dates: February 2019 – Present
   logo: mlh.svg
+  class: mlh
 
 - role: Junior PHP Developer
   company: Komodo Digital
   dates: September 2018 – August 2019
   logo: komodo.png
+  class: komodo

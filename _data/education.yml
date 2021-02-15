@@ -1,24 +1,29 @@
 - course: BSc Natural Sciences (Computer Science and Maths) with Placement
   institute: Durham University
   dates: October 2016 – September 2020
-  logo: du.png
+  logo: du.svg
+  class: du
 
 - course: AWS Cloud Practitioner – Associate
   institute: Amazon Web Services
   dates: October 2020
   logo: aws-cp.png
+  class: aws-cp
 
 - course: AWS Solutions Architect – Associate
   institute: Amazon Web Services
   dates: November 2020
   logo: aws-sa.png
+  class: aws-sa
 
 - course: AWS Developer – Associate
   institute: Amazon Web Services
   dates: January 2020
   logo: aws-dev.png
+  class: aws-dev
 
 - course: Terraform Associate
   institute: HashiCorp
   dates: February 2020
   logo: hashicorp-terraform.png
+  class: hashicorp-terraform
