@@ -38,7 +38,8 @@
     &.mlh {
         //background: #e73427; // Red
         //background: #f8b92a; // Yellow
-        background: #1d539f; // Blue
+        //background: #1d539f; // Blue
+        background: #ca1508; // Dark red (not an official brand colour but required for legibility)
         @include lightText;
     }
 
