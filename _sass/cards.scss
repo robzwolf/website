@@ -1,20 +1,30 @@
 .card {
-    @mixin lightText() {
+    /**
+    Global styles and utilities for cards
+     */
+    @mixin lightText($blow-out: true) {
         color: white;
 
-        img {
-            filter: brightness(100);
+        @if ($blow-out) {
+            img {
+                filter: brightness(100);
+            }
         }
     }
 
-    @mixin darkText() {
+    @mixin darkText($crush: true) {
         color: #212529;
 
-        img {
-            filter: brightness(0);
+        @if ($crush) {
+            img {
+                filter: brightness(0);
+            }
         }
     }
 
+    /**
+    Work Experience
+     */
     &.aws {
         background: #f29e39;
         @include darkText;
@@ -35,5 +45,34 @@
     &.komodo {
         background: black;
         @include lightText;
+    }
+
+    /**
+    Education
+     */
+    &.du {
+        background: #611c66;
+        @include lightText;
+    }
+
+    &.aws-cp {
+        background: #1d191a;
+        @include lightText($blow-out: false);
+    }
+
+    &.aws-sa,
+    &.aws-dev {
+        background: #3d79e3;
+        @include lightText($blow-out: false);
+    }
+
+    &.hashicorp-terraform {
+        /**
+        Based on https://drive.google.com/uc?export=download&id=1M91XdVZINeS6K7Ut7958OhhXa0HK3bjr
+        from https://www.hashicorp.com/brand
+         */
+        background: #DDD6FA;
+
+        @include darkText($crush: false);
     }
 }
