@@ -3,6 +3,7 @@
 @import 'navbar';
 @import 'profile';
 @import 'page';
+@import 'cards';
 
 .card-container {
     display: grid;
@@ -75,7 +76,7 @@ a {
 
     .dates {
         font-size: small;
-        color: #404040;
+        opacity: 0.8;
     }
 }
 

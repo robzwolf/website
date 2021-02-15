@@ -1,0 +1,39 @@
+.card {
+    @mixin lightText() {
+        color: white;
+
+        img {
+            filter: brightness(100);
+        }
+    }
+
+    @mixin darkText() {
+        color: #212529;
+
+        img {
+            filter: brightness(0);
+        }
+    }
+
+    &.aws {
+        background: #f29e39;
+        @include darkText;
+    }
+
+    &.hukc {
+        background: #07b9e8;
+        @include darkText;
+    }
+
+    &.mlh {
+        //background: #e73427; // Red
+        //background: #f8b92a; // Yellow
+        background: #1d539f; // Blue
+        @include lightText;
+    }
+
+    &.komodo {
+        background: black;
+        @include lightText;
+    }
+}
