@@ -1,5 +1,6 @@
 [build]
     command = "bundle exec jekyll build"
+    publish = "_site/"
 
 [dev]
     command = "bundle exec jekyll serve"
