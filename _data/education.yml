@@ -6,7 +6,7 @@
 
 - course: AWS Developer – Associate
   institute: Amazon Web Services
-  dates: January 2020
+  dates: January 2021
   logo: aws-dev.png
   class: aws-dev
 
@@ -24,6 +24,6 @@
 
 - course: Terraform Associate
   institute: HashiCorp
-  dates: February 2020
+  dates: February 2021
   logo: hashicorp-terraform.png
   class: hashicorp-terraform
