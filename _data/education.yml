@@ -4,6 +4,12 @@
   logo: du.svg
   class: du
 
+- course: AWS SysOps Administrator – Associate
+  institute: Amazon Web Services
+  dates: March 2021
+  logo: aws-so.png
+  class: aws-so
+
 - course: AWS Developer – Associate
   institute: Amazon Web Services
   dates: January 2021
