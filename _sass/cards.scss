@@ -61,7 +61,8 @@
     }
 
     &.aws-sa,
-    &.aws-dev {
+    &.aws-dev,
+    &.aws-so {
         background: #3d79e3;
         @include lightText($blow-out: false);
     }
