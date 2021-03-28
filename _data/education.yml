@@ -7,19 +7,19 @@
 - course: AWS SysOps Administrator – Associate
   institute: Amazon Web Services
   dates: March 2021
-  logo: aws-so.png
+  logo: aws-sysops-a.png
   class: aws-so
 
 - course: AWS Developer – Associate
   institute: Amazon Web Services
   dates: January 2021
-  logo: aws-dev.png
+  logo: aws-dev-a.png
   class: aws-dev
 
 - course: AWS Solutions Architect – Associate
   institute: Amazon Web Services
   dates: November 2020
-  logo: aws-sa.png
+  logo: aws-sa-a.png
   class: aws-sa
 
 - course: AWS Cloud Practitioner – Associate
