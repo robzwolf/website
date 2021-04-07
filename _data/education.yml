@@ -7,25 +7,25 @@
 - course: AWS SysOps Administrator – Associate
   institute: Amazon Web Services
   dates: March 2021
-  logo: aws-so.png
+  logo: aws-cert-logos/With White Border/AWS-SysOpAdmin-Associate-2020.png
   class: aws-so
 
 - course: AWS Developer – Associate
   institute: Amazon Web Services
   dates: January 2021
-  logo: aws-dev.png
+  logo: aws-cert-logos/With White Border/AWS-Developer-Associate-2020.png
   class: aws-dev
 
 - course: AWS Solutions Architect – Associate
   institute: Amazon Web Services
   dates: November 2020
-  logo: aws-sa.png
+  logo: aws-cert-logos/With White Border/AWS-SolArchitect-Associate-2020.png
   class: aws-sa
 
 - course: AWS Cloud Practitioner – Associate
   institute: Amazon Web Services
   dates: October 2020
-  logo: aws-cp.png
+  logo: aws-cert-logos/With White Border/AWS-CloudPractitioner-2020.png
   class: aws-cp
 
 - course: Terraform Associate
