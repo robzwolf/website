@@ -4,3 +4,6 @@
 [submodule "tv"]
 	path = tv
 	url = https://github.com/robzwolf/tv.git
+[submodule "assets/img/education/aws-cert-logos"]
+	path = assets/img/education/aws-cert-logos
+	url = git@github.com:robzwolf/aws-cert-logos.git
