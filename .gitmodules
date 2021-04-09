@@ -1,6 +1,3 @@
-[submodule "mouse"]
-	path = mouse
-	url = https://github.com/robzwolf/invert-mouse-scroll-windows.git
 [submodule "tv"]
 	path = tv
 	url = https://github.com/robzwolf/tv.git
