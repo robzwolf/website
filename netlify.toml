@@ -5,14 +5,28 @@
 [dev]
     command = "bundle exec jekyll serve"
 
-[[redirects]]
-    from = "/r/tv"
-    to = "/tv"
 
+## /tv and /r/tv redirect to https://tv.gh.robbie.dev
+[[redirects]]
+    from = "/tv/*"
+    to = "https://tv.gh.robbie.dev/:splat"
+
+[[redirects]]
+    from = "/r/tv/*"
+    to = "https://tv.gh.robbie.dev/:splat"
+
+
+## /mouse and /r/mouse redirect to https://mouse.gh.robbie.dev
 [[redirects]]
     from = "/r/mouse"
-    to = "/mouse"
+    to = "https://mouse.gh.robbie.dev/"
 
+[[redirects]]
+    from = "/mouse"
+    to = "https://mouse.gh.robbie.dev/"
+
+
+## /pay redirects to https://robbie.cash
 [[redirects]]
     from = "/pay/*"
     to = "https://robbie.cash/:splat"
