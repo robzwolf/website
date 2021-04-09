@@ -1,5 +1,7 @@
 # Robbie's Personal Website
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/38497b80-a76c-4c5e-b5ee-dfb22f6c9963/deploy-status)](https://app.netlify.com/sites/robbie-dev/deploys)
+
 This is a Jekyll personal portfolio website hosted on Netlify.
 
 https://www.robbie.dev
