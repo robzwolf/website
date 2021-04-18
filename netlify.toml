@@ -30,3 +30,9 @@
 [[redirects]]
     from = "/pay/*"
     to = "https://robbie.cash/:splat"
+
+
+## /hollywood redirects to https://gist.github.com/robzwolf/1ac0c37bf3baec10fa9f3c989e53d312
+[[redirects]]
+    from = "/hollywood"
+    to = "https://gist.github.com/robzwolf/1ac0c37bf3baec10fa9f3c989e53d312"
