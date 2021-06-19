@@ -28,6 +28,12 @@
   logo: https://aws-cert-logos.gh.robbie.dev/With White Border/AWS-CloudPractitioner-2020.png
   class: aws-cp
 
+- course: Vault Associate
+  institute: HashiCorp
+  dates: June 2021
+  logo: assets/img/education/hashicorp-vault.png
+  class: hashicorp-vault
+
 - course: Terraform Associate
   institute: HashiCorp
   dates: February 2021

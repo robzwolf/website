@@ -77,6 +77,11 @@
         @include darkText($crush: false);
     }
 
+    &.hashicorp-vault {
+        background: #1D1E23;
+        @include lightText($blow-out: false);
+    }
+
     &.huk {
         background: #e91e63;
         @include lightText;
