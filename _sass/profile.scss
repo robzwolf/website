@@ -48,6 +48,7 @@
 
         img {
             filter: brightness(0) saturate(100) invert(16%) sepia(17%) saturate(607%) hue-rotate(161deg) brightness(96%);
+            transition: opacity 0.2s;
         }
     }
 }
