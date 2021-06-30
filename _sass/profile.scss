@@ -12,7 +12,7 @@
         color: #2a3339;
     }
     
-    img {
+    .profile-picture img {
         border-radius: 50%;
         max-width: 100%;
         max-height: 100%;
@@ -31,5 +31,24 @@
     a:hover,
     a:visited {
         color: rgba(59, 71, 79, 0.92);
+    }
+
+    .socials {
+        display: flex;
+        justify-content: center;
+        grid-gap: 24px;
+
+        a:hover {
+            text-decoration: none;
+
+            img {
+                opacity: 0.8;
+            }
+        }
+
+        img {
+            filter: brightness(0) saturate(100) invert(16%) sepia(17%) saturate(607%) hue-rotate(161deg) brightness(96%);
+            transition: all 0.2s;
+        }
     }
 }

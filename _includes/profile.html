@@ -3,6 +3,13 @@
         <img src="./assets/img/logo.jpg">
     </div>
     <h1>{{ site.title }}</h1>
-    <h2><a href="https://github.com/{{ site.github_username }}">GitHub</a></h2>
+    <h2 class="socials">
+        <a href="https://github.com/{{ site.github_username }}" target="_blank">
+            <img src="./assets/img/github.svg" width="70" alt="Link to GitHub profile"/>
+        </a>
+        <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}/" target="_blank">
+            <img src="./assets/img/linkedin.svg" width="70" alt="Link to LinkedIn profile" />
+        </a>
+    </h2>
     <h2><a href="mailto:{{ site.email }}">{{ site.email }}</a></h2>
 </div>
