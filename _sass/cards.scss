@@ -66,6 +66,11 @@
         background: #3d79e3;
         @include lightText($blow-out: false);
     }
+    
+    &.aws-sec {
+        background: #472ea3;
+        @include lightText($blow-out: false);
+    }
 
     &.hashicorp-terraform {
         /**
