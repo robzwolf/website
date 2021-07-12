@@ -4,6 +4,12 @@
   logo: assets/img/education/du.svg
   class: du
 
+- course: AWS Security – Specialty
+  institute: Amazon Web Services
+  dates: July 2021
+  logo: https://aws-cert-logos.gh.robbie.dev/With White Border/AWS-Security-Specialty-2020.png
+  class: aws-sec
+
 - course: AWS SysOps Administrator – Associate
   institute: Amazon Web Services
   dates: March 2021
