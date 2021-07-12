@@ -7,6 +7,7 @@ baseurl: "/"
 url: "https://robbie.dev/" 
 twitter_username: robzwolf
 github_username:  robzwolf
+linkedin_username: robbiejw
 
 sass:
   sass_dir: _sass
