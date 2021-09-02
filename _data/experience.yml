@@ -4,17 +4,17 @@
   logo: assets/img/experience/aws.png
   class: aws
 
-- role: Director & Co-Founder
-  company: Hackathon Consulting
-  dates: April 2020 – Present
-  logo: assets/img/experience/hc.svg
-  class: hc
-
-- role: European Coach
+- role: Developer Evangelist
   company: Major League Hacking
   dates: February 2019 – August 2021
   logo: assets/img/experience/mlh.svg
   class: mlh
+
+- role: Director & Co-Founder
+  company: Hackathon Consulting
+  dates: April 2020 – August 2021
+  logo: assets/img/experience/hc.svg
+  class: hc
 
 - role: Junior PHP Developer
   company: Komodo Digital
