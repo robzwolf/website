@@ -1,6 +1,12 @@
+- role: Cloud Developer
+  company: Ava Security
+  dates: January 2021 – Present
+  logo: assets/img/experience/ava.svg
+  class: ava
+
 - role: Associate Consultant – AWS Professional Services
   company: Amazon Web Services
-  dates: September 2020 – Present
+  dates: September 2020 – December 2021
   logo: assets/img/experience/aws.png
   class: aws
 

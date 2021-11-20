@@ -25,6 +25,12 @@
     /**
     Work Experience
      */
+    &.ava {
+        background: #6e56ff;
+        @include lightText;
+    }
+
+
     &.aws {
         background: #f29e39;
         @include darkText;
