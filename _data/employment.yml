@@ -4,18 +4,6 @@
   logo: assets/img/employment/aws.png
   class: aws
 
-- role: Developer Evangelist
-  company: Major League Hacking
-  dates: February 2019 – August 2021
-  logo: assets/img/employment/mlh.svg
-  class: mlh
-
-- role: Director & Co-Founder
-  company: Hackathon Consulting
-  dates: April 2020 – August 2021
-  logo: assets/img/employment/hc.svg
-  class: hc
-
 - role: Junior PHP Developer
   company: Komodo Digital
   dates: September 2018 – August 2019
