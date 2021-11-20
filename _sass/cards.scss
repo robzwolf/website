@@ -49,6 +49,14 @@
     }
 
     /**
+    Part-Time
+     */
+    &.fellowship {
+        background: #1D539F;
+        @include lightText(false);
+    }
+
+    /**
     Education
      */
     &.du {
