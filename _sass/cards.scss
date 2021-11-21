@@ -23,19 +23,31 @@
     }
 
     /**
-    Work Experience
+    Employment
      */
     &.ava {
         background: #6e56ff;
         @include lightText;
     }
 
-
     &.aws {
         background: #f29e39;
         @include darkText;
     }
 
+    &.komodo {
+        background: black;
+        @include lightText;
+    }
+
+    &.vm {
+        background: #aa0000; // Dark red from the 'old' Van Mildert logo: https://en.m.wikipedia.org/wiki/File:Van_Mildert_Coll_Durham_shield.svg
+        @include lightText(false);
+    }
+
+    /**
+    Part-Time
+     */
     &.hc {
         background: #07b9e8;
         @include darkText;
@@ -49,9 +61,9 @@
         @include lightText;
     }
 
-    &.komodo {
-        background: black;
-        @include lightText;
+    &.fellowship {
+        background: #1D539F;
+        @include lightText(false);
     }
 
     /**
