@@ -61,6 +61,11 @@
         @include lightText(false);
     }
 
+    &.lsc {
+        background: #2a1495;
+        @include lightText(false);
+    }
+
     /**
     Education
      */
