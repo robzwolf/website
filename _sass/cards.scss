@@ -30,19 +30,6 @@
         @include darkText;
     }
 
-    &.hc {
-        background: #07b9e8;
-        @include darkText;
-    }
-
-    &.mlh {
-        //background: #e73427; // Red
-        //background: #f8b92a; // Yellow
-        //background: #1d539f; // Blue
-        background: #ca1508; // Dark red (not an official brand colour but required for legibility)
-        @include lightText;
-    }
-
     &.komodo {
         background: black;
         @include lightText;
@@ -56,6 +43,19 @@
     /**
     Part-Time
      */
+    &.hc {
+        background: #07b9e8;
+        @include darkText;
+    }
+
+    &.mlh {
+        //background: #e73427; // Red
+        //background: #f8b92a; // Yellow
+        //background: #1d539f; // Blue
+        background: #ca1508; // Dark red (not an official brand colour but required for legibility)
+        @include lightText;
+    }
+
     &.fellowship {
         background: #1D539F;
         @include lightText(false);
