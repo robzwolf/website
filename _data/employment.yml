@@ -13,5 +13,5 @@
 - role: Web Development and Marketing
   company: Van Mildert College, Durham University
   dates: July 2018 – September 2018
-  logo: assets/img/employment/vm-light.png
+  logo: assets/img/employment/vm-light.png # The new Van Mildert logo from https://www.durham.ac.uk/colleges-and-student-experience/colleges/van-mildert/
   class: vm

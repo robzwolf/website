@@ -36,7 +36,7 @@
     }
 
     &.vm {
-        background: #aa0000;
+        background: #aa0000; // Dark red from the 'old' Van Mildert logo: https://en.m.wikipedia.org/wiki/File:Van_Mildert_Coll_Durham_shield.svg
         @include lightText(false);
     }
 
