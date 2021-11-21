@@ -51,7 +51,7 @@ Education example.
 ### Styles and Images
 Add classes to `_sass/cards.scss` to style cards. Class names match the `class` YAML attribute on cards.
 
-Add images to `assets/img/*`, where `*` is the respective directory for `volunteering`, `education` or `employment`.
+Add images to `assets/img/*`, where `*` is the respective directory for `volunteering`, `education`, `part-time` or `employment`.
 
 ## Development
 
