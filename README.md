@@ -10,7 +10,7 @@ Based on [MLH-Fellowship/portfolio-template](https://github.com/MLH-Fellowship/p
 
 ## Add Cards to the Portfolio
 
-Head to `_data` and fill out `volunteering.yml`, `experience.yml` and `education.yml`.
+Head to `_data` and fill out `volunteering.yml`, `employment.yml`, `part-time.yml` and `education.yml`.
 
 Volunteering example.
 ```yaml
@@ -21,13 +21,22 @@ Volunteering example.
   class: dh
 ```
 
-Experience example.
+Employment example.
 ```yaml
 - role: Junior PHP Developer
   company: Komodo Digital
   dates: September 2018 – August 2019
   logo: komodo.png
   class: komodo
+```
+
+Part-time example.
+```yaml
+- role: Senior Admissions Specialist
+  company: MLH Fellowship
+  dates: May 2020 – August 2021
+  logo: assets/img/part-time/fellowship.svg
+  class: fellowship
 ```
 
 Education example.
@@ -42,7 +51,7 @@ Education example.
 ### Styles and Images
 Add classes to `_sass/cards.scss` to style cards. Class names match the `class` YAML attribute on cards.
 
-Add images to `assets/img/*`, where `*` is the respective directory for `volunteering`, `education` or `experience`.
+Add images to `assets/img/*`, where `*` is the respective directory for `volunteering`, `education` or `employment`.
 
 ## Development
 

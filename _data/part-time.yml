@@ -1,0 +1,23 @@
+- role: Senior Admissions Specialist
+  company: MLH Fellowship
+  dates: May 2020 – August 2021
+  logo: assets/img/part-time/fellowship.svg
+  class: fellowship
+
+- role: Director & Co-Founder
+  company: Hackathon Consulting
+  dates: April 2020 – August 2021
+  logo: assets/img/part-time/hc.svg
+  class: hc
+
+- role: Lab Demonstrator
+  company: Department of Computer Science, Durham University
+  dates: October 2019 – December 2019
+  logo: assets/img/education/du.svg
+  class: du
+
+- role: Developer Evangelist
+  company: Major League Hacking
+  dates: February 2019 – August 2021
+  logo: assets/img/part-time/mlh.svg
+  class: mlh
