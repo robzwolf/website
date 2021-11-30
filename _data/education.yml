@@ -4,6 +4,12 @@
   logo: assets/img/education/du.svg
   class: du
 
+- course: AWS DevOps Engineer – Professional
+  institute: Amazon Web Services
+  dates: November 2021
+  logo: https://aws-cert-logos.gh.robbie.dev/With%20White%20Border/AWS-DevOpsEngineer-Professional-2020.png
+  class: aws-devops-pro
+
 - course: AWS Security – Specialty
   institute: Amazon Web Services
   dates: July 2021
