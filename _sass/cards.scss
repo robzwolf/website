@@ -95,6 +95,11 @@
         @include lightText($blow-out: false);
     }
 
+    &.aws-devops-pro {
+        background: #6DC6BF;
+        @include darkText($crush: false);
+    }
+
     &.hashicorp-terraform {
         /**
         Based on https://drive.google.com/uc?export=download&id=1M91XdVZINeS6K7Ut7958OhhXa0HK3bjr
