@@ -1,4 +1,5 @@
 .card {
+
     /**
     Global styles and utilities for cards
      */
@@ -25,8 +26,8 @@
     /**
     Employment
      */
-    &.ava {
-        background: #6e56ff;
+    &.qush {
+        background: #382FF1;
         @include lightText;
     }
 
@@ -89,7 +90,7 @@
         background: #3d79e3;
         @include lightText($blow-out: false);
     }
-    
+
     &.aws-sec {
         background: #472ea3;
         @include lightText($blow-out: false);
