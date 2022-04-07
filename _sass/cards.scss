@@ -28,7 +28,7 @@
      */
     &.qush {
         background: #382FF1;
-        @include lightText;
+        @include lightText(false);
     }
 
     &.aws {
