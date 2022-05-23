@@ -106,14 +106,13 @@
         Based on https://drive.google.com/uc?export=download&id=1M91XdVZINeS6K7Ut7958OhhXa0HK3bjr
         from https://www.hashicorp.com/brand
          */
-        background: #DDD6FA;
-
+        background: #F4ECFF;
         @include darkText($crush: false);
     }
 
     &.hashicorp-vault {
-        background: #1D1E23;
-        @include lightText($blow-out: false);
+        background: #FFF9CF;
+        @include darkText($crush: false);
     }
 
     &.huk {
