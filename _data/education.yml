@@ -4,6 +4,12 @@
   logo: assets/img/education/du.svg
   class: du
 
+- course: Associate Cloud Engineer
+  institute: Google Cloud
+  dates: May 2022
+  logo: https://miro.medium.com/proxy/1*T59fnCvp71WqNeuytWGorA.png
+  class: gcp-ace
+
 - course: AWS DevOps Engineer – Professional
   institute: Amazon Web Services
   dates: November 2021
