@@ -80,25 +80,25 @@
     }
 
     &.aws-cp {
-        background: #1d191a;
+        background: #293543;
         @include lightText($blow-out: false);
     }
 
     &.aws-sa,
     &.aws-dev,
     &.aws-so {
-        background: #3d79e3;
+        background: #0c1e91;
         @include lightText($blow-out: false);
     }
 
     &.aws-sec {
-        background: #472ea3;
+        background: #3b1b8b;
         @include lightText($blow-out: false);
     }
 
     &.aws-devops-pro {
-        background: #6DC6BF;
-        @include darkText($crush: false);
+        background: #016080;
+        @include lightText($blow-out: false);
     }
 
     &.hashicorp-terraform {
