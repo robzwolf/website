@@ -115,6 +115,11 @@
         @include darkText($crush: false);
     }
 
+    &.gcp-ace {
+        background: rgb(81, 134, 236);
+        @include lightText($blow-out: false);
+    }
+
     &.huk {
         background: #e91e63;
         @include lightText;
