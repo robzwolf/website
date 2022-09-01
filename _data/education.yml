@@ -4,6 +4,12 @@
   logo: assets/img/education/du.svg
   class: du
 
+- course: Professional Cloud Developer
+  institute: Google Cloud
+  dates: August 2022
+  logo: https://cloud-cert-logos.gh.robbie.dev/2022/GoogleCloud-Professional-Cloud-Developer.png
+  class: gcp-pcd
+
 - course: Associate Cloud Engineer
   institute: Google Cloud
   dates: May 2022
