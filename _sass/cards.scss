@@ -120,6 +120,11 @@
         @include lightText($blow-out: false);
     }
 
+    &.gcp-pcd {
+        background: #f0bf38;
+        @include darkText($crush: false);
+    }
+
     &.huk {
         background: #e91e63;
         @include lightText;
