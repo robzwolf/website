@@ -125,6 +125,14 @@
         @include darkText($crush: false);
     }
 
+    /**
+     Volunteering
+     */
+    &.spark {
+        background: #0094d6;
+        @include lightText;
+    }
+    
     &.huk {
         background: #e91e63;
         @include lightText;
