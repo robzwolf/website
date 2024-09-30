@@ -26,7 +26,13 @@
     /**
     Employment
      */
-    &.nextdlp {
+    &.fortinet {
+        background: #DA291C;
+        @include lightText(true);
+    }
+    
+    
+     &.nextdlp {
         background: #382FF1;
         @include lightText(false);
     }
