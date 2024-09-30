@@ -1,6 +1,12 @@
+- role: Consulting Systems Engineer
+  company: Fortinet
+  dates: August 2024 – Present
+  logo: assets/img/employment/fortinet.svg
+  class: fortinet
+
 - role: Solutions Architect
-  company: Next DLP
-  dates: December 2022 – Present
+  company: Next DLP (acquired by Fortinet)
+  dates: December 2022 – August 2024
   logo: assets/img/employment/nextdlp.png
   class: nextdlp
 
