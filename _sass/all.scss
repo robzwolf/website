@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;700&display=swap');
 @import 'navbar';
 @import 'profile';
@@ -65,12 +65,17 @@ a {
 
     .title {
         font-size: 16px;
-        font-weight: bold;
+        font-weight: 900;
     }
 
     .location {
         font-size: medium;
         font-weight: 400;
+    }
+
+    .description {
+      font-size: small;
+      font-weight: 400;
     }
 
     .dates {

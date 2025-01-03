@@ -26,6 +26,11 @@
     /**
     Employment
      */
+    &.torq {
+        background: #000000;
+        @include lightText;
+    }
+
     &.fortinet {
         background: #DA291C;
         @include lightText(true);
@@ -43,7 +48,7 @@
     }
 
     &.komodo {
-        background: black;
+        background: #243551;
         @include lightText;
     }
 

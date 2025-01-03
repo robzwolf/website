@@ -6,9 +6,9 @@
             <img src="{{ item.logo }}">
         </div>
         <div class="info">
-            <p class="title">{{ item.role }}</p>
-            <p class="location">{{ item.company }}</p>
+            <p><span class="title">{{ item.role }}</span> &ndash; <span class="location">{{ item.company }}</span></p>
             <p class="dates">{{ item.dates }}</p>
+            <p class="description">{{ item.description }}</p>
         </div>
     </div>
     {% endfor %}
