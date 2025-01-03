@@ -1,19 +1,19 @@
 - role: Senior Solutions Engineer
   company: Torq
-  dates: Jan 2025 - Present
+  dates: Jan 2025 – Present
   logo: assets/img/employment/torq.webp
   class: torq
 
 - role: Consulting Solutions Engineer
   company: Fortinet
-  description: joined by acquisition of Next DLP in Aug 2024
+  description: joined through acquisition
   dates: Aug 2024 – Dec 2024
   logo: assets/img/employment/fortinet.svg
   class: fortinet
 
 - role: Solutions Engineer
   company: Next DLP
-  description: acquired by Fortinet in August 2024
+  description: acquired by Fortinet in Aug 2024
   dates: Dec 2022 – Aug 2024
   logo: assets/img/employment/nextdlp.png
   class: nextdlp
